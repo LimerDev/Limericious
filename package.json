@@ -1,12 +1,17 @@
 {
-  "name": "limer.limerlicious",
+  "name": "limerlicious",
   "icon": "images/logo.png",
   "displayName": "Limerlicious",
   "description": "Themes by Limer",
   "version": "0.0.2",
+	"publisher": "limer",
   "engines": {
     "vscode": "*"
   },
+  	"repository": {
+		"type": "git",
+		"url": "https://github.com/LimerDev/limerlicious"
+	},
   "categories": [
     "Themes"
   ],
